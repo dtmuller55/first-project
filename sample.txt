@@ -1,1 +1,1 @@
-This is my sample repository stuff
+It's pretty simple, isn't it?
