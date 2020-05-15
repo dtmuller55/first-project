@@ -1,6 +1,5 @@
 It's pretty simple, isn't it?
-<<<<<<< HEAD
-I like programming
-=======
 Oh, and another thing...
->>>>>>> c2b1d9be47cfd437e1bee82371d3add4a25c8a0e
+I like programming
+
+Something Crazy!!!!
